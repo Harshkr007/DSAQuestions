@@ -1,4 +1,4 @@
-//Given string num representing a non-negative integer num, and an integer k, return the smallest possible integer after removing k digits from num.
+//Given string num representing a non-negative integer num,</br> and an integer k, return the smallest possible integer after removing k digits from num.
 
 import java.util.*;
 import java.io.*;
